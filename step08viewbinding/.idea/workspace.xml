@@ -10,30 +10,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca0c320-197c-4e4a-a4cd-1906a05fe227" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/MyClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step01_Basic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step01_Basic2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step02_Class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step02_Class2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step02_Class3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step03_Extends.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step04_Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step05_AbstractClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step06_Companion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step08_JavaTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step09_Lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step09_Lambda2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step09_Lambda3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step10_CollectionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step10_CollectionFunction2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step11_SetterGetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step12_Operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step13_apply.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step14_when.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step15_loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step16_trycatch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step16_trycatch2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin_test/app/src/main/java/com/example/kotlin_test/Step17_InputOutput.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/test/java/com/example/test/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test02/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +97,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module",
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="step08viewbinding.app.main" />
